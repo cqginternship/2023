@@ -1,0 +1,153 @@
+> -
+  ^ Error: 0: Unexpected symbol
+
+> --1
+   ^ Error: 1: Unexpected symbol
+
+> 1+
+   ^ Error: 1: Unexpected symbol
+
+> 1+1+
+     ^ Error: 3: Unexpected symbol
+
+> *1
+  ^ Error: 0: Operator is not unary
+
+> 1@1
+   ^ Error: 1: Unexpected symbol
+
+> 1,1
+   ^ Error: 1: Unexpected symbol
+
+> ()
+   ^ Error: 1: Unexpected symbol
+
+> (
+  ^ Error: 0: Unexpected symbol
+
+> )
+  ^ Error: 0: Unexpected symbol
+
+> (1
+  ^ Error: 0: Mismatched parenthesis
+
+> 1)
+   ^ Error: 1: Unexpected symbol
+
+> ()
+   ^ Error: 1: Unexpected symbol
+
+> (1+1))*(2+(2)
+       ^ Error: 5: Unexpected symbol
+
+> pi
+Error: Uninitialized variable "pi"
+
+> foo()
+  ^ Error: 0: Unknown function
+
+> foo(1)
+  ^ Error: 0: Unknown function
+
+> foo(1, 1)
+  ^ Error: 0: Unknown function
+
+> sin()
+  ^ Error: 0: Unexpected number of function arguments
+
+> sin(1, 1)
+  ^ Error: 0: Unexpected number of function arguments
+
+> sin(1
+      ^ Error: 4: Mismatched parenthesis in function call
+
+> 1+(x=2)
+      ^ Error: 4: Unknown operator
+
+> (x=1)
+    ^ Error: 2: Unknown operator
+
+> 1.
+  ^ Error: 0: Unexpected symbol
+
+> .5
+  ^ Error: 0: Unexpected symbol
+
+> 1a=0
+   ^ Error: 1: Unexpected symbol
+
+> 1
+  = 1
+
+> -1
+  = -1
+
+> (1)
+  = 1
+
+> (-1)
+  = -1
+
+> ((1))
+  = 1
+
+> -(-(-1))
+  = -1
+
+> 1+1
+  = 2
+
+> -1+1
+  = 0
+
+> 2+2*2
+  = 6
+
+> (2+2)*2
+  = 8
+
+> (2+2)*2+2
+  = 10
+
+> (2+2)*(2+2)
+  = 16
+
+> 1+2*3/4-5
+  = -2.5
+
+> -10+12*(3+1)/(-6)
+  = -18
+
+> 1/3+1/6
+  = 0.5
+
+> 1.5-(0.5+0.5)
+  = 0.5
+
+> 0.000001*1000000-1
+  = 4.44089e-16
+
+> _ = 0
+  = 0
+
+> pi = 3.1415926
+  = 3.14159
+
+> tau = pi*2
+  = 6.28319
+
+> sin(pi/2)
+  = 1
+
+> cos(pi/2)
+  = 2.67949e-08
+
+> var_1 = 1
+  = 1
+
+> min(var_1, 2)
+  = 1
+
+> max(var_1, 2)
+  = 2
+

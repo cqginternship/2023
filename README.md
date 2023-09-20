@@ -6,7 +6,7 @@ CQG Internship 2023
  Дата  | Занятие
 -------|--------
 6  сен | [Version Control Systems](<1. Version Control Systems/VCS. Git. GitHub.pdf>)
-20 сен | Debugging
+20 сен | [Debugging](<2. Debugging/Debugging.pdf>)
 4  окт | STL
 18 окт | Modern C++: Move Semantics and Smart Pointers
 1  ноя | Modern C++: lambda, bind, function
