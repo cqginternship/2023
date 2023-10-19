@@ -8,7 +8,7 @@ CQG Internship 2023
 6  сен | [Version Control Systems](<1. Version Control Systems/VCS. Git. GitHub.pdf>)
 20 сен | [Debugging](<2. Debugging/Debugging.pdf>)
 4  окт | [STL](<3. STL/STL Summary (2023).pdf>)
-18 окт | Modern C++: Move Semantics and Smart Pointers
+18 окт | [Move Semantics and Smart Pointers](<4. Move Semantic and Smart Pointers/Move Semantic, Smart Pointers.pdf>) 
 1  ноя | Modern C++: lambda, bind, function
 15 ноя | Multithreading
 29 ноя | Python
