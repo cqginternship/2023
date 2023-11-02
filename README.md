@@ -9,7 +9,7 @@ CQG Internship 2023
 20 сен | [Debugging](<2. Debugging/Debugging.pdf>)
 4  окт | [STL](<3. STL/STL Summary (2023).pdf>)
 18 окт | [Move Semantics and Smart Pointers](<4. Move Semantic and Smart Pointers/Move Semantic, Smart Pointers.pdf>) 
-1  ноя | Modern C++: lambda, bind, function
+1  ноя | [Lambda, Bind, Function](<5. Lambda, Bind, Function/Lambda, Bind, Function.pdf>)
 15 ноя | Multithreading
 29 ноя | Python
 
