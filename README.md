@@ -10,7 +10,7 @@ CQG Internship 2023
 4  окт | [STL](<3. STL/STL Summary (2023).pdf>)
 18 окт | [Move Semantics and Smart Pointers](<4. Move Semantic and Smart Pointers/Move Semantic, Smart Pointers.pdf>) 
 1  ноя | [Lambda, Bind, Function](<5. Lambda, Bind, Function/Lambda, Bind, Function.pdf>)
-15 ноя | Multithreading
+15 ноя | [Multithreading](<6. Multithreading/Multithreading.pdf>)
 29 ноя | Python
 
 Лекции начинаются в 16:00 на нашем канале в Discord https://discord.gg/A2gYUuS  
