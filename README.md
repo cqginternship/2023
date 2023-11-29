@@ -11,7 +11,7 @@ CQG Internship 2023
 18 окт | [Move Semantics and Smart Pointers](<4. Move Semantic and Smart Pointers/Move Semantic, Smart Pointers.pdf>) 
 1  ноя | [Lambda, Bind, Function](<5. Lambda, Bind, Function/Lambda, Bind, Function.pdf>)
 15 ноя | [Multithreading](<6. Multithreading/Multithreading.pdf>)
-29 ноя | Python
+29 ноя | [Python](<7. Python/Python.pdf>)
 
 Лекции начинаются в 16:00 на нашем канале в Discord https://discord.gg/A2gYUuS  
 Видеозаписи лекций будут выложены на наш канал в YouTube https://www.youtube.com/@CQGZelenogradInternship
